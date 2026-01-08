@@ -1,0 +1,17 @@
+# Big files with data
+*.csv
+data/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Not consnant
+*.tmp
+.DS_Store
