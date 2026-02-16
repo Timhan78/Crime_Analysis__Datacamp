@@ -1,5 +1,9 @@
 # Crime Data Analysis (DataCamp Project)
 
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+![Tools](https://img.shields.io/badge/Tools-Python_|_pandas_|_Jupyter-blue)
+
+
 ## Overview
 
 This is my **first fully completed data analysis project**, developed independently as part of my studies on **DataCamp** and adapted for my personal portfolio.
