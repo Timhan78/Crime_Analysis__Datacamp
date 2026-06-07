@@ -60,11 +60,20 @@ All data cleaning, feature engineering, aggregation, and interpretation steps in
 
 ## Key Findings
 
-- Crimes show a clear **temporal concentration** during specific hours
-- Certain **areas** experience significantly higher crime activity at night
-- Crime frequency varies noticeably across **victim age groups**
 
-(Exact values and outputs are shown in the notebook.)
+**Peak crime hour: 12:00 (noon)**
+Crime frequency peaks at midday with 13,663 incidents, notably higher 
+than any other hour. A secondary evening cluster appears around 17:00-20:00.
+
+**Top night-crime area: Central**
+Of all areas, Central records the most night-time crimes (22:00-03:59) 
+with 3,312 incidents, ahead of Hollywood (2,699) and 77th Street (2,558).
+
+**Most affected victim age group: 26-34**
+Adults aged 26-34 are the most frequent victims (47,470 crimes), 
+followed by the 35-44 group (42,157). Victims under 18 are the rarest (4,528).
+
+Dataset: 185,715 crime records analysed.
 
 ---
 
